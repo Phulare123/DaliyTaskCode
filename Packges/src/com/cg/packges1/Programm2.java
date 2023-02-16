@@ -1,8 +1,8 @@
 package com.cg.packges1;
+// import one package to another package
+import com.cg.packges.*;
 
-import com.cg.packges.Programm1;
-
-public class Programm2 
+public class Programm2
 {
 	public static void main(String[] args) {
 		
